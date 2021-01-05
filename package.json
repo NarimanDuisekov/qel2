@@ -20,7 +20,7 @@
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@sendgrid/mail": "^6.4.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.2",
     "classnames": "^2.2.5",
